@@ -1,7 +1,7 @@
-gamepad.js
+Hitboxer
 ===
 
-A simple demo of the HTML5 Gamepad API, showing debug info and button states for all connected controllers, in realtime.
+A simple demo of the HTML5 Gamepad API,Adding in layouts for Hibox controller, showing debug info and button states for all connected controllers, in realtime.
 
 Built with React, TypeScript, and Stylus
 
